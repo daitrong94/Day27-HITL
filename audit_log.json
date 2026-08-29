@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-08-29T09:52:19.247254+00:00",
+    "agent_id": "churn-risk-agent",
+    "action": "send_email",
+    "confidence": 0.87,
+    "reviewer_id": "auto-system",
+    "decision": "auto_approve"
+  }
+]
